@@ -1,0 +1,12 @@
+asgiref==3.8.1
+Django==4.2.8
+django-debug-toolbar==4.2.0
+django-extensions==3.2.3
+django-model-utils==4.5.1
+gunicorn==21.2.0
+packaging==24.1
+python-dotenv==1.0.0
+typing_extensions==4.12.2
+unicodecsv==0.14.1
+whitenoise==6.5.0
+mysqlclient==2.2.4.
